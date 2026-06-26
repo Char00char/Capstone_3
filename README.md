@@ -22,7 +22,7 @@ Analyzes sales performance across the East Region, including:
 - Total Revenue of East Region
 - Revenue per State over time (Connecticut and New York)
 - Revenue by Month over with Year slicer for interactice filtering
-- 
+  
 ### 3. Revenue per New York
 A focused breakdown of sales performance specifically in New York state.
 
