@@ -1,4 +1,4 @@
-# EmporiUm Regional Sales Performance Report
+# EmporiUm East Region Sales Performance Report
 ### Data Analytics Capstone Project
 
 ---
