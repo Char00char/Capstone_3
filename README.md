@@ -73,3 +73,4 @@ Compares performance across all regions, including:
 - Capstone3_Sample_Sales-CP.xlsx, Capstone3_Sample_Sales.xlsx, and book list.txt used for data 
 - Palacios_capstone3.pbix is the Power Bi Report
 - CLICK HERE FOR 10 MIN VIDEO.txt is a text file used to get to my 10-min video
+- Recommendations.txt is a text file that contains my recommendations
