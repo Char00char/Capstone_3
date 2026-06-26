@@ -57,8 +57,6 @@ Compares performance across all regions, including:
 - **Top Selling Book:** Harry Potter and the Sorcerer's Stone — $3,499.32
 - **Top Selling Author:** Suzanne Collins — $6,029.96
 - **Top Product Category:** Technology & Accessories — $4M+ in revenue
-- **Top Region:** Northeast — $24M+ in revenue
-- **Top State:** Maryland — $11.5M in revenue
 - **Top Locations for New York:** New York and Rochester lead in both revenue and transactions
 - **Highest Average Transaction for New York:** Poestenkill at $152.80 per transaction
 - **Top Locations for Connecticut:** New London leads in both revenue and transactions
