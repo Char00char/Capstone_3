@@ -64,22 +64,6 @@ Compares performance across all regions, including:
 - **Highest Average Transaction Connecticut:** New London at $145.74 per transaction
 ---
 
-## Data Model
-The report uses the following tables:
-- **Book List** — Book titles, authors, and product numbers
-- **Book Sales** — Book transaction data including sale amount and store ID
-- **Store Sales** — General store transaction data by category and product
-- **Store Locations** — Store location details including region, state, and store ID
-- **Products** — Product catalog with categories and subcategories
-- **Online Sales** — Online transaction data
-- **Store Managers** — Manager information by region and state
-- **Region Managers** — Regional director information
-- **Inventory Categories** — Product category descriptions
-- **Shipper List** — Shipping and delivery information
-- **Transaction Date** — Date table for time intelligence
-
----
-
 ## Tools Used
 - **Microsoft Power BI Desktop** — Report creation and data visualization
 - **DAX (Data Analysis Expressions)** — Custom measures and calculations
