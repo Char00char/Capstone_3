@@ -1,4 +1,4 @@
-# EmporiUm Regional Sales Performance Report
+# EmporiUm East Region Sales Performance Report
 ### Data Analytics Capstone Project
 
 ---
@@ -22,7 +22,7 @@ Analyzes sales performance across the East Region, including:
 - Total Revenue of East Region
 - Revenue per State over time (Connecticut and New York)
 - Revenue by Month over with Year slicer for interactice filtering
-- 
+  
 ### 3. Revenue per New York
 A focused breakdown of sales performance specifically in New York state.
 
@@ -68,3 +68,8 @@ Compares performance across all regions, including:
 ## Tools Used
 - **Microsoft Power BI Desktop** — Report creation and data visualization
 - **DAX (Data Analysis Expressions)** — Custom measures and calculations
+
+## Files in Capstone 3
+- Capstone3_Sample_Sales-CP.xlsx, Capstone3_Sample_Sales.xlsx, and book list.txt used for data 
+- Palacios_capstone3.pbix is the Power Bi Report
+- CLICK HERE FOR 10 MIN VIDEO.txt is a text file used to get to my 10-min video
