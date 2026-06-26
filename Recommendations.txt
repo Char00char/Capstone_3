@@ -10,7 +10,7 @@ Product Category Recommendations
 
 - Prioritize Technology & Accessories — it generates $4M+ in revenue, far above every other category
 - Textbooks are a strong #2 — stores should ensure textbook inventory is stocked at the start of each semester
-- Books and Stationery have the most transactions but lowest revenue — consider bundling these with higher value items to increase average transaction size
+- Books has the least transactions and 2nd lowest revenue — consider bundling these with higher value items like Technology and Accessories to increase average transaction size
 
 Store Performance Recommendations
 
