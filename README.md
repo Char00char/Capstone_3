@@ -19,8 +19,10 @@ A professional introduction to the report including the report period, audience,
 
 ### 2. Revenue by East Region
 Analyzes sales performance across the East Region, including:
+- Total Revenue of East Region
 - Revenue per State over time (Connecticut and New York)
-
+- Revenue by Month over with Year slicer for interactice filtering
+- 
 ### 3. Revenue per New York
 A focused breakdown of sales performance specifically in New York state.
 
@@ -41,8 +43,7 @@ Analyzes product category performance, including:
 - Revenue per Category bar chart
 - Transactions per Category bar chart
 - Top 10 Technology & Accessories Products
-- Revenue by Month trend line chart
-- Category and Year slicers for interactive filtering
+- Revenue by Month trend line chart with Category and Year slicers for interactive filtering
 
 ### 7. Regional Breakdown
 Compares performance across all regions, including:
