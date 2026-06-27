@@ -1,0 +1,2 @@
+Click [here](https://yearuptemp-my.sharepoint.com/:v:/g/personal/cpalacios_my_yearupunited_org/IQAsEuSugVIxRqNa7_b237bmAXiQgl7MG9HEp5KVK1vS3zM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=40uOkO) for my 10 video
+
